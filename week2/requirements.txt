@@ -1,5 +1,0 @@
-# Week2_PodScheduler_HealthMonitor/requirements.txt
-flask
-requests
-
----
